@@ -59,7 +59,7 @@ import com.meewee.kashishbridge.KBridge
 // import androidx.activity.result.ActivityResult
 
 /**
- * Create by wlanjie on 2019/4/13-下午3:14
+ * Create by badcoder
  */
 class RecordActivity : AppCompatActivity(), OnRecordingListener, OnRenderListener, RecordButton.OnGestureListener,
   SharedPreferences.OnSharedPreferenceChangeListener, CameraCallback {
